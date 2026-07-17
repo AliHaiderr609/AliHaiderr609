@@ -6,7 +6,7 @@ I design and build intelligent software products that scale.
 
 With **6+ years of experience**, I've architected, developed, and deployed enterprise-grade applications across AI, cloud, web, and mobile ecosystems. From product discovery to production deployment, I specialize in transforming complex ideas into secure, scalable, and maintainable software.
 
-My work spans **AI-powered platforms, enterprise SaaS, government solutions, cloud-native infrastructure, and modern full-stack applications**, with a strong focus on architecture, performance, and long-term maintainability.
+My work spans **AI-powered platforms, enterprise SaaS, desktop applications, government solutions, cloud-native infrastructure, and modern full-stack applications**, with a strong focus on architecture, performance, and long-term maintainability.
 
 ---
 
