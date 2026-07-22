@@ -95,7 +95,7 @@ Designing reliable data platforms and high-performance backend systems.
 
 ### 🗃️ Databases
 
-`MongoDB` `PostgreSQL` `Firebase` `Contentful`
+`MongoDB` `PostgreSQL` `Firebase` `Contentful` `MySQL`
 
 ### ☁️ Cloud & DevOps
 
