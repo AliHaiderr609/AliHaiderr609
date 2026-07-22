@@ -91,7 +91,7 @@ Designing reliable data platforms and high-performance backend systems.
 
 ### 💻 Languages & Frameworks
 
-`JavaScript` `TypeScript` `Python` `React` `Next.js` `Angularjs` `Node.js` `Express` `NestJS` `FastAPI` `Django` `GraphQL` `Electron`
+`JavaScript` `TypeScript` `Python` `Three.js` `React` `Next.js` `Angularjs` `Node.js` `Express` `NestJS` `FastAPI` `Django` `GraphQL` `Electron`
 
 ### 🗃️ Databases
 
