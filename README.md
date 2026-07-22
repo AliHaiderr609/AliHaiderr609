@@ -6,7 +6,7 @@ I architect and build production-grade software that powers businesses.
 
 With **6+ years of experience**, I've designed, developed, and deployed **AI-powered platforms, enterprise SaaS products, desktop applications, cloud-native systems, and mobile backends** from the ground up. My experience spans the complete software lifecycle — from product strategy and system architecture to engineering leadership, cloud infrastructure, and production deployment.
 
-I work at the intersection of **🤖 Artificial Intelligence, ☁️ Cloud Computing, and 🏗️ Modern Software Engineering**, helping organizations transform complex ideas into scalable, secure, and maintainable products.
+I work at the intersection of **🤖 Artificial Intelligence, ☁️ Cloud Computing, and 🏗️ Modern Software Engineering**, helping organizations transform complex ideas into scalable, secure, and maintainable products. 
 
 ---
 
@@ -91,7 +91,7 @@ Designing reliable data platforms and high-performance backend systems.
 
 ### 💻 Languages & Frameworks
 
-`JavaScript` `TypeScript` `Python` `Three.js` `React` `Next.js` `Angularjs` `Node.js` `Express` `NestJS` `FastAPI` `Django` `GraphQL` `Electron`
+`JavaScript` `TypeScript` `Python` `Three.js` `React` `Next.js` `Angularjs` `Node.js` `Express` `NestJS` `FastAPI` `Django` `GraphQL` `Electron`  
 
 ### 🗃️ Databases
 
